@@ -1,0 +1,10 @@
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\bin\Debug\Ejer02.exe.config
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\bin\Debug\Ejer02.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\bin\Debug\Ejer02.pdb
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.Form1.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.Properties.Resources.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.csproj.GenerateResource.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.csproj.CoreCompileInputs.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.pdb
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Ejer02\obj\Debug\Ejer02.csprojAssemblyReference.cache
