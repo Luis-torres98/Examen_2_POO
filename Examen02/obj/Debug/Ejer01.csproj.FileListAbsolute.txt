@@ -1,0 +1,10 @@
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\bin\Debug\Examen02.exe.config
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\bin\Debug\Examen02.exe
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\bin\Debug\Examen02.pdb
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Ejer01.csprojAssemblyReference.cache
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Examen02.Form1.resources
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Examen02.Properties.Resources.resources
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Ejer01.csproj.GenerateResource.cache
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Ejer01.csproj.CoreCompileInputs.cache
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Examen02.exe
+C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Examen02.pdb

@@ -1,0 +1,10 @@
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\bin\Debug\Ejer03.exe.config
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\bin\Debug\Ejer03.exe
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\bin\Debug\Ejer03.pdb
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.csprojAssemblyReference.cache
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.Form1.resources
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.Properties.Resources.resources
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.csproj.GenerateResource.cache
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.csproj.CoreCompileInputs.cache
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.exe
+C:\Users\Harold MV\source\repos\Examen_2_POO\Ejer03\obj\Debug\Ejer03.pdb
