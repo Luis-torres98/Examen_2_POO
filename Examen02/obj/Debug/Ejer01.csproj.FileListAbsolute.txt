@@ -1,0 +1,10 @@
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\bin\Debug\Examen02.exe.config
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\bin\Debug\Examen02.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\bin\Debug\Examen02.pdb
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Ejer01.csprojAssemblyReference.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.Form1.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.Properties.Resources.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Ejer01.csproj.GenerateResource.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Ejer01.csproj.CoreCompileInputs.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.pdb
