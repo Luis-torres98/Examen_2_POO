@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\bin\Debug\Examen02.exe.config
 C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\bin\Debug\Examen02.exe
 C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\bin\Debug\Examen02.pdb
@@ -8,3 +9,15 @@ C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Ejer01.csproj.Ge
 C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Ejer01.csproj.CoreCompileInputs.cache
 C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Examen02.exe
 C:\Users\Harold MV\Source\Repos\Examen_2_POO\Examen02\obj\Debug\Examen02.pdb
+=======
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\bin\Debug\Examen02.exe.config
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\bin\Debug\Examen02.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\bin\Debug\Examen02.pdb
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Ejer01.csprojAssemblyReference.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.Form1.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.Properties.Resources.resources
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Ejer01.csproj.GenerateResource.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Ejer01.csproj.CoreCompileInputs.cache
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.exe
+C:\Users\formu\Desktop\Ciclo III\POO\Examen 2\Examen02\Examen02\obj\Debug\Examen02.pdb
+>>>>>>> 6f6b8e3dacc5e4e43eb95f6ec3163af50f8bb3fb

@@ -134,8 +134,9 @@ namespace Examen02
             }
             else
             {
-                
-                String ruta = "C:\\Users\\Harold MV\\Desktop\\Ciclo III\\POO\\Examen 2\\Reportes\\Reporte.txt";
+
+                //Ruta de acceso personalizada, Crear carpeta en Disco C con nombre Reportes
+                String ruta = "C:\\Reportes\\Reporte.txt";
 
                 StreamWriter escritor = new StreamWriter(ruta);
                 escritor.Write(contenido);
